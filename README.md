@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Lochan Waghmare 👋
 
-<!--
-**LochanWaghmare/LochanWaghmare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Diploma Computer Engineering student (3rd Semester, MSBTE) at Government Polytechnic College, Gondia, Maharashtra. I'm building my foundation in C/C++, data structures & algorithms, and web development — this GitHub is where I track that journey.
 
-Here are some ideas to get you started:
+## 🗂️ How this profile is organized
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Instead of one big repo, I've split my work by language/purpose so progress in each area is easy to follow:
+
+| Repository | What's inside |
+|---|---|
+| [C](https://github.com/LochanWaghmare/REPO_NAME_HERE) | Basic programs, problem-solving exercises, data structures, sorting/searching, and diploma curriculum programs |
+| [C++](https://github.com/LochanWaghmare/REPO_NAME_HERE) | Core C++ concepts (functions, loops, conditionals) plus applied projects, including a **Library Management System** |
+| [LeetCode Solutions](https://github.com/LochanWaghmare/REPO_NAME_HERE) | Problem-solving practice in C/C++, organized by problem — algorithms, data structures, logical thinking |
+| [HTML Projects](https://github.com/LochanWaghmare/REPO_NAME_HERE) | Beginner web dev work: Personal Portfolio, Student Registration Form, College Timetable |
+
+*(Replace `REPO_NAME_HERE` in each link with your actual repo name.)*
+
+## 🌱 Currently learning
+- Data Structures & Algorithms
+- Web Development fundamentals
+
+## 📫 Reach me
+- GitHub: [@LochanWaghmare](https://github.com/LochanWaghmare)
+
+---
