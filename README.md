@@ -1,6 +1,6 @@
 # Hi, I'm Lochan Waghmare 👋
 
-Diploma Computer Engineering student (3rd Semester, MSBTE) at Government Polytechnic College, Gondia, Maharashtra. I'm building my foundation in C/C++, data structures & algorithms, and web development — this GitHub is where I track that journey.
+Diploma Computer Engineering student (3rd Semester) at Government Polytechnic College, Gondia, Maharashtra. I'm building my foundation in C/C++, data structures & algorithms, and web development — this GitHub is where I track that journey.
 
 ## 🗂️ How this profile is organized
 
