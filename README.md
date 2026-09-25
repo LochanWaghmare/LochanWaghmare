@@ -11,7 +11,7 @@ Instead of one big repo, I've split my work by language/purpose so progress in e
 | [C](https://github.com/LochanWaghmare/C) | Basic programs, problem-solving exercises, data structures, sorting/searching, and diploma curriculum programs |
 | [C++](https://github.com/LochanWaghmare/CPP) | Core C++ concepts (functions, loops, conditionals) plus applied projects, including a **Library Management System** |
 | [LeetCode Solutions](https://github.com/LochanWaghmare/LeetCode-Solution) | Problem-solving practice in C/C++, organized by problem — algorithms, data structures, logical thinking |
-| [HTML Projects](https://github.com/LochanWaghmare/HTML) | Beginner web dev work: Personal Portfolio, Student Registration Form, College Timetable |
+| [HTML Projects](https://github.com/LochanWaghmare/HTML) | Beginner web dev work: Personal Portfolio, Student Registration  Form, College Timetable |
 
 ## 🌱 Currently learning
 - Data Structures & Algorithms
